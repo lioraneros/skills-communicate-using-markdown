@@ -14,3 +14,8 @@ text text text
 ``` cs
 Console.WriteLine("Fenced code blocks ftw!");
 ```
+
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
