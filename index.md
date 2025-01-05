@@ -7,3 +7,8 @@
 
 
 ![Image of Cute Cat](https://img.freepik.com/premium-photo/charming-white-cat-with-pink-hat-featuring-heart-embellishment_922357-40796.jpg?semt=ais_hybrid)
+
+
+``` csharp
+int myVar = "Hello, world!";
+```
